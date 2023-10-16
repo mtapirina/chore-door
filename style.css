@@ -1,5 +1,7 @@
 body {
     background-color: #010165;
+    background-image:url('./img/tile.png');
+    background-repeat: repeat;
     margin: 0px;
   }
   

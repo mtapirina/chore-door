@@ -11,7 +11,6 @@ let beachDoorPath = 'https://content.codecademy.com/projects/chore-door/images/b
 let spaceDoorPath = 'https://content.codecademy.com/projects/chore-door/images/space.svg';
 let closedDoorPath = 'https://content.codecademy.com/projects/chore-door/images/closed_door.svg';
 
-
 let numClosedDoors = 3;
 let openDoor1;
 let openDoor2;
