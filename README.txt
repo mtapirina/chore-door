@@ -1,4 +1,5 @@
-Chore Door - Codecademy Project
+# Chore Door - Codecademy Project
+
 In this project, we will use our knowledge of JavaScript and the DOM to complete Chore Door, a
 single-page interactive game built with JavaScript. 
 
@@ -6,3 +7,5 @@ Play a few rounds and see how you fare against the ChoreBot. Your goal is to ope
 
 Live page 
 https://mtapirina.github.io/chore-door
+
+
